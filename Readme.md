@@ -14,3 +14,11 @@ possible features are :
 - Learning Openings
 - Elo rating
 - Leaderboard
+
+##update 09/03/2023
+
+building a puzzles DB through a scrapper and lichess puzzles db 
+
+lichess puzzles db can be found here : https://database.lichess.org/#puzzles
+
+code that i wrote to put a mongodb : https://github.com/m0rp43us/chess_db

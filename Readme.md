@@ -15,7 +15,7 @@ possible features are :
 - Elo rating
 - Leaderboard
 
-##update 09/03/2023
+## update 09/03/2023
 
 building a puzzles DB through a scrapper and lichess puzzles db 
 

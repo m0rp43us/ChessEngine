@@ -14,6 +14,8 @@ possible features are :
 - Learning Openings
 - Elo rating
 - Leaderboard
+- Maybe playing against the time and an opponent (chezz puzzles and openings)
+- playing against the same ELO rated bot (maybe maia : https://maiachess.com/)
 
 ## update 09/03/2023
 
